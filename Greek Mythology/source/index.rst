@@ -11,13 +11,8 @@ Welcome to Greek Mythology's documentation!
    :caption: Contents:
 
    apollo/index
+   athena/index
    artemis/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   demigods/index
+   hermes/index
+   poseidon/index
