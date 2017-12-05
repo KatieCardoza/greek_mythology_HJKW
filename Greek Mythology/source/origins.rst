@@ -1,20 +1,9 @@
-.. Greek Mythology documentation master file, created by
-   sphinx-quickstart on Thu Nov 30 08:38:52 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Gaea, Primal Goddess "Mother Earth"
+===================================
 
-This page is for the Greek Mythology Origins
-============================================
+Within Greek Mythology, the thing to exist before all else was Chaos made of Void, Mass, and Darkness. From Chaos came earth in the form of Gaea. Referred to as “Mother Earth,” Gaea produced starry heavens as the God Uranus. Gaea also created the mountains, plains, seas, and rivers that formed Earth. 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Gaea was a primal goddess and governed the universe before the time of the Titans. Gaea embodied Earth and was worshipped as the universal mother. In Greek Mythology, she gave birth to Titans and the first humans with Uranus. Uranus attempted to stop Gaea’s creations, and imprisoned them in Gaea’s womb. With this came the allegiance of Gaea and her son Cronos, and together they overthrew Uranus. 
 
+Later, Gaea’s allegiance was transferred to Zeus when Cronus began swallowing his own children. Cronus swallowed his children to prevent them from overthrowing him, a prophecy told by Gaea. After overthrowing Cronus, Gaea was angered when Zeus threw the Titans into Tartarus. In her anger, Gaea birthed a tribe of Giants and eventually Typhoeus, a storm giant. Neither creation was able to overthrow Zeus.
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
