@@ -22,7 +22,7 @@ Gorgons
 Minotaur
 Satyrs
 Pegasus
-=========== =============
+=========== ============= ===========
 
 
 Was transformed into this state by Athena after she boasted she was the best weaver. 
