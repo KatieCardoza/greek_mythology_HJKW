@@ -6,7 +6,28 @@
 Apollo
 ======
 
-Apollo is the god of the sun, archery, music, poetry, art, dance, oracles, plague, medicine, light, knowledge, and colonization.  Though he was the god of all music, his primary instrument was the lyre.  He is depicted with either a golden lyre or silver bow and arrows.  He is also always clean-shaven, young, and athletic, and typically wearing a laurel crown.  He and his twin sister Artemis are the children of Zeus and the Titaness Leto.  Leto was pursued by Hera’s jealous rage during her pregnancy and the only safe place to give birth that she could find was on the floating island of Delos.  Apollo and Artemis are mirrors of each other.  Apollo is the protector of young boys and Artemis is the protector of young girls.  They are deities of the sun and moon.  They are both gods of archery, but Apollo is god of sport archery and Artemis is goddess of archery for hunting and war.  The first thing Apollo did after leaving Delos was kill Python, a giant snake, in the city of Delphi and take control of the oracle there.  He was then granted the gift of prophecy.  Apollo once killed his closest friend and love interest, Hyacinthus, with a discus throw, and then turned him into a flower in grief.  Apollo has many affairs with women, and there are multiple instance in which his advances are rejected and he punishes the women.  Once, a woman named Coronis was pregnant with his child but fell in love with another man.  Apollo heard this and, in anger, asked Artemis to kill Coronis.  Another time, a satyr, Marsyas, challenged Apollo to a music competition.  Apollo won and was so angry he had Marsays flayed alive for being arrogant enough to challenge a god.  
+Apollo is the god of the sun, archery, music, poetry, art, dance, oracles, 
+plague, medicine, light, knowledge, and colonization.  Though he was the god of 
+all music, his primary instrument was the lyre.  He is depicted with either a 
+golden lyre or silver bow and arrows.  He is also always clean-shaven, young, 
+and athletic, and typically wearing a laurel crown.  He and his twin sister 
+Artemis are the children of Zeus and the Titaness Leto.  Leto was pursued by 
+Hera’s jealous rage during her pregnancy and the only safe place to give birth 
+that she could find was on the floating island of Delos.  Apollo and Artemis are 
+mirrors of each other.  Apollo is the protector of young boys and Artemis is the 
+protector of young girls.  They are deities of the sun and moon.  They are both 
+gods of archery, but Apollo is god of sport archery and Artemis is goddess of 
+archery for hunting and war.  The first thing Apollo did after leaving Delos was 
+kill Python, a giant snake, in the city of Delphi and take control of the oracle 
+there.  He was then granted the gift of prophecy.  Apollo once killed his 
+closest friend and love interest, Hyacinthus, with a discus throw, and then 
+turned him into a flower in grief.  Apollo has many affairs with women, and 
+there are multiple instance in which his advances are rejected and he punishes 
+the women.  Once, a woman named Coronis was pregnant with his child but fell in 
+love with another man.  Apollo heard this and, in anger, asked Artemis to kill 
+Coronis.  Another time, a satyr, Marsyas, challenged Apollo to a music 
+competition.  Apollo won and was so angry he had Marsays flayed alive for being 
+arrogant enough to challenge a god.  
 
 .. toctree::
    :maxdepth: 2
