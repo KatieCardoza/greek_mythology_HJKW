@@ -6,4 +6,15 @@
 Aphrodite
 =========
 
-Aphrodite is the goddess of love, beauty, and eternal youth. According to some legends, Aphrodite arose from the foam of the sea after Cronus the Titan slew his father, Uranus, and threw his genitals into the sea. Her beauty was unsurpassed, and almost started wars within the close family of the gods. To prevent this, Zeus ordered her to marry Hephaestus, the god of fire and metalworking. Even though she was married, Aphrodite had many affairs with other gods like Ares, and also humans. She was known to be quite vain, and exacted revenge on anyone who said their beauty surpassed hers. In the legend of the golden apple, Paris, the son of the King of Troy, chose Aphrodite as the fairest between Hera and Artemis. In exchange, she gave him Helen, a beautiful, but married woman. This story was considered to be the real reason for the beginning of the Trojan War.
+Aphrodite is the goddess of love, beauty, and eternal youth. According to some 
+legends, Aphrodite arose from the foam of the sea after Cronus the Titan slew 
+his father, Uranus, and threw his genitals into the sea. Her beauty was 
+unsurpassed, and almost started wars within the close family of the gods. 
+To prevent this, Zeus ordered her to marry Hephaestus, the god of fire and 
+metalworking. Even though she was married, Aphrodite had many affairs with 
+other gods like Ares, and also humans. She was known to be quite vain, and 
+exacted revenge on anyone who said their beauty surpassed hers. In the legend 
+of the golden apple, Paris, the son of the King of Troy, chose Aphrodite as 
+the fairest between Hera and Artemis. In exchange, she gave him Helen, a 
+beautiful, but married woman. This story was considered to be the real reason 
+for the beginning of the Trojan War.
