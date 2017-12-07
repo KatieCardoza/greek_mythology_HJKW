@@ -1,12 +1,10 @@
+.. Greek Mythology documentation master file, created by
+   sphinx-quickstart on Thu Nov 30 08:38:52 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
 Artemis
 =======
-
-.. figure:: artemis.jpg
-
-	Greco-Roman marble statue, circa 1st Century A.D., courtesy of `Theoi`_.
-
-.. _Theoi: http://www.theoi.com/Olympios/Artemis.html
 
 Artemis is the goddess of the moon, the hunt, archery, wild animals, the 
 wilderness, vegetation, childbirth, and chastity.  Her sacred animal is the 
@@ -33,3 +31,7 @@ love on one occasion: with her hunting partner, Orion.  However, Apollo was
 upset by this and challenged Artemis to shoot a point way off on the horizon.
 Unfortunately, the point was Orion, and Artemis shot and killed him.  In her 
 grief, she made him into a constellation.  
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:

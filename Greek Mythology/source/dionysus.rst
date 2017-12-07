@@ -1,13 +1,10 @@
+.. Greek Mythology documentation master file, created by
+   sphinx-quickstart on Thu Nov 30 08:38:52 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
 Dionysus
 ========
-
-.. figure:: dionysus.jpg
-
-	Dionysus riding a panther, Greek Moasiac from circa 4th Centure B.C., courtesy of `Theoi`_.
-
-.. _Theoi: http://www.theoi.com/Olympios/Dionysos.html
-
 
 Dionysus is the god of wine, vegetation, pleasure, festivity, madness, euphoria, 
 and the patron of Greek theater.  He is either shown as an old bearded man or a 
@@ -40,5 +37,7 @@ Dionysus was worshipped in the woods where his followers could be as wild and
 crazy as they wanted.  He was dramatic and had a sense of humor.  He was the 
 last god to be instated on Mount Olympus.  
 
-
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
