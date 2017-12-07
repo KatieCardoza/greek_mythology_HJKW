@@ -10,9 +10,17 @@ Welcome to Greek Mythology's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   aphrodite/index
    apollo/index
+   ares/index
    athena/index
    artemis/index
+   demeter/index
    demigods/index
+   gaea/index
+   hades/index
+   hera/index
    hermes/index
+   monsters/index
    poseidon/index
+   zeus/index
