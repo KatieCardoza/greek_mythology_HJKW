@@ -1,5 +1,5 @@
-Gaea, Primal Goddess "Mother Earth"
-===================================
+Gaea
+====
 
 Within Greek Mythology, the thing to exist before all else was Chaos made of 
 Void, Mass, and Darkness. From Chaos came earth in the form of Gaea. Referred 
@@ -8,10 +8,10 @@ created the mountains, plains, seas, and rivers that formed Earth.
 
 Gaea was a primal goddess and governed the universe before the time of the 
 Titans. Gaea embodied Earth and was worshipped as the universal mother. In Greek
- Mythology, she gave birth to Titans and the first humans with Uranus. Uranus 
- attempted to stop Gaea’s creations, and imprisoned them in Gaea’s womb. With 
- this came the allegiance of Gaea and her son Cronos, and together they 
- overthrew Uranus. 
+Mythology, she gave birth to Titans and the first humans with Uranus. Uranus 
+attempted to stop Gaea’s creations, and imprisoned them in Gaea’s womb. With 
+this came the allegiance of Gaea and her son Cronus, and together they 
+overthrew Uranus. 
 
 Later, Gaea’s allegiance was transferred to Zeus when Cronus began swallowing 
 his own children. Cronus swallowed his children to prevent them from 
