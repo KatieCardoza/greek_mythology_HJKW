@@ -26,6 +26,7 @@ beautiful, but married woman. This story was considered to be the real reason
 for the beginning of the Trojan War.
 
 **Aphrodite had many children including:**
+
 * Eros
 * Phobos
 * Deimos 
