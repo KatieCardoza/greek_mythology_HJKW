@@ -13,11 +13,11 @@ child of Uranus and Gaea. Fearing a prophecy that told of Cronus being
 overthrown by one of his children, Cronus sought to swallow all of his children 
 immediately after birth. The following were his first five children:
 
-* Hades
-* Poseidon
 * Demeter
+* Hades
 * Hera
 * Hestia
+* Poseidon
 
 Cronus was successful with in swallowing them, but Rhea, Cronus’s wife, 
 saved their sixth and youngest child by stowing him away on the island of 
@@ -47,27 +47,28 @@ their other parent in the table below:
 ============ ==================================
 Mother       Child
 ============ ==================================
-Demeter		 Persephone
-Dione		 Aphrodite
-Eurynome	 Charities
-Hera		 Ares, Eileithyia, Hebe, Hephaestus
-Leto		 Apollo, Artemis
-Maia 		 Hermes 		 		 
-Mnemosyne	 Muses
-Themes		 Horae, Moirae
+Aegina		 Aecus
 Alcmene		 Heracles
 Antiope		 Amphion, Zethus
 Callisto	 Arcas
 Danae		 Perseus
-Aegina		 Aecus
+Demeter		 Persephone
+Dione		 Aphrodite
 Electra		 Dardanus, Harmonia, Iasius
 Europa		 Minos, Rhadamanthys
+Eurynome	 Charities
+Hera		 Ares, Eileithyia, Hebe, Hephaestus
 Io 			 Epaphus
 Laodamia	 Sarpedon
 Leda		 Polydeuces, Helen
+Leto		 Apollo, Artemis
+Maia 		 Hermes 		 		 
+Mnemosyne	 Muses
 Niobe		 Argos, Pelasgus
-A nymph		 Tantalus
 Semele		 Dionysus
 Taygete		 Lacadaemon
-None		 Athena	 
+Themes		 Horae, Moirae
+
+A nymph		 Tantalus
+None		 Athena
 ============ ==================================
