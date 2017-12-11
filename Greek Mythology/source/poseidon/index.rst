@@ -1,5 +1,8 @@
 Poseidon
 ========
+.. figure:: poseidon_2.jpg
+
+.. https://www.greekmythology.com/Olympians/Poseidon/poseidon.html
 
 
 Poseidon is the god of the sea and earthquakes. Like all of the gods, his true

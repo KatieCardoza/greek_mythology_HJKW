@@ -1,5 +1,8 @@
 Demigods
 ========
+.. figure:: perseus.gif
+
+.. http://www.mythweb.com/encyc/entries/perseus.html
 
 
 Demigods are half-human, half-god beings. When a god and human have a child, the
