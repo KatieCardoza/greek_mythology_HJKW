@@ -12,6 +12,12 @@ These creatures of myth are just some of many that one can find throughout Greek
  to the deathly Charybdis, some of these monsters were surely sound familiar as 
  we still refer to them today.
 
+.. figure:: medusa.jpg
+	
+	Perseus hiding from the Gorgon, Medusa, made by `donanimhaber`_.
+
+.. _donanimhaber: http://quotesgram.com/img/medusa-greek-mythology-quotes/1625541/
+
 
 .. list-table:: Ten Creatures in Greek Mythology
    :widths: 10 20 30
@@ -63,7 +69,7 @@ These creatures of myth are just some of many that one can find throughout Greek
      - Associated with poetry, Pegasus is known for letting heroes like 
 	    Bellerophon ride on his back 
 
-Click here to 
+Click here to `find more`_.
 .. _find more: https://www.greekmythology.com/Myths/Creatures/creatures.html
 creatures like the ones seen above!
 

@@ -6,6 +6,12 @@
 Demeter
 =======
 
+.. figure:: demeter.jpg
+	
+	Demeter mourning the loss of Persephone, made by `Evelyn de Morgan`_.
+
+.. _Evelyn de Morgan: https://www.pinterest.com/archibaldborges/art-pre-raphaelites-2/
+
 Demeter was the goddess of agriculture, fertility, sacred law, and the harvest.
  She is most known for her part in the cycle of the harvest rather than the 
  cycle of life and death. Her daughter, Persephone, was abducted by the god of 
