@@ -1,6 +1,12 @@
 Hera
 ====
 
+.. figure:: hera_image.jpg
+	:width: 20%
+
+	This is an image of Hera, `reference`_.
+.. _reference: http://www.greek-mythology-pantheon.com/hera-juno-greek-goddess-queen-of-the-gods/
+
 Hera was one of the six children of Cronus. After being freed by her younger 
 brother Zeus, the six gods of Olympus overthrew Cronus. Afterwards, Hera married
 Zeus, making her the Queen of Olympus. During their marriage, Zeus participated
