@@ -1,5 +1,8 @@
 Athena
 ======
+.. figure:: athena_goddess.jpg
+
+.. https://www.pinterest.com/explore/athena-goddess/
 
 
 Athena is the goddess of wisdom and battle strategy. She is also the goddess of

@@ -1,5 +1,8 @@
 Hermes
 ======
+.. figure:: hermes.jpg
+
+.. https://www.thinglink.com/scene/619269792322289665
 
 
 Hermes is known as the messenger god. He carries messages throughout the world
