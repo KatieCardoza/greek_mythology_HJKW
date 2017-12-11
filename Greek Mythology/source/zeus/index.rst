@@ -1,6 +1,10 @@
 Zeus
 ====
 
+..image:: zeus_image.jpg
+	:width: 40%
+
+
 Cronus, King of the Titans and God of Time, was the youngest titan. He was the 
 child of Uranus and Gaea. Fearing a prophecy that told of Cronus being overthrown 
 by one of his children, Cronus sought to swallow all of his children immediately
