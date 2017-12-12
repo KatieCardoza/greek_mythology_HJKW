@@ -1,7 +1,7 @@
 Hermes
 ======
 .. figure:: hermes.png
- :width: 50%
+ :width: 20%
 
 Hermes off to deliver messages, `Word Hunter <https://hunterswritings.com/2016/04/19/character-archetypes-h-for-herald-and-hermes/>`_.
 

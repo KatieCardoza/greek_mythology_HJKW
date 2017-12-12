@@ -1,7 +1,7 @@
 Poseidon
 ========
 .. figure:: poseidon.jpg
- :width: 50%
+ :width: 20%
 
 Poseidon ruling the sea, courtesy of `Genzoman <https://genzoman.deviantart.com/art/Poseidon-God-of-the-Sea-484552876>`_.
 
