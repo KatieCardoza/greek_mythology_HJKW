@@ -28,7 +28,7 @@ their children.
 Hera then cursed Dionysus himself into madness.  He wandered around in madness 
 for years, teaching people how to make wine.  Once, he was captured by 
 Tyrrhenian pirates who wanted to sell him into slavery, but Dionysus cursed 
-their ship with phantom vines and beasts.  In fear, the pirated jumped into the 
+their ship with phantom vines and beasts.  In fear, the pirates jumped into the 
 sea, where Dionysus turned them into dolphins.  Another time, a *different* 
 group of pirates captured him, mistaking him for a prince because he looked rich.  
 They tied him to the mast of the ship but he magically loosened them until they 
