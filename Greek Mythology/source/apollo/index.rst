@@ -5,7 +5,7 @@ Apollo
 .. figure:: apollo.jpg
     :width: 30%
 
-	Terra Cotta Garden Statue of Apollo from the 19th Century, courtesy of `1st Dibs`_.
+    Terra Cotta Garden Statue of Apollo from the 19th Century, courtesy of `1st Dibs`_.
 
 .. _1st Dibs: https://www.1stdibs.com/furniture/decorative-objects/sculptures/figurative-sculptures/large-scale-terra-cotta-garden-statue-greek-god-apollo-italy-19th-century/id-f_3643803/
 
