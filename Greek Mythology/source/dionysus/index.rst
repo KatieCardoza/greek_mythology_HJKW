@@ -16,16 +16,14 @@ bearded man or a young long-haired man.  He often carries a pinecone staff.
 Dionysus’ sacred animals were the panther, leopard, and tiger.  His sacred 
 plants were the grapevine, ivy, and pine trees.  
 
-Dionysus was born to `Zeus`_ and Semele, princess of Thebes.  Semele, influenced 
-by a jealous `Hera`_, asked Zeus to show her his full form but she died upon 
+Dionysus was born to Zeus and Semele, princess of Thebes.  Semele, influenced 
+by a jealous Hera, asked Zeus to show her his full form but she died upon 
 seeing him like that.  Zeus rescued the unborn Dionysus and *sewed him into his* 
 *leg*, where he stayed until he was born.  Because Dionysus was born from Zeus, 
 he was immortal despite having one mortal parent.  He is the *only* Olympian to 
 have a mortal parent.  After he was born, he was raised by his Aunt Ino for a 
 while, but she and her husband were cursed by Hera and killed themselves and 
 their children.  
-.. _Zeus: zeus/index.html
-.. _Hera: hera/index.html
 
 Hera then cursed Dionysus himself into madness.  He wandered around in madness 
 for years, teaching people how to make wine.  Once, he was captured by 

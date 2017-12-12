@@ -10,13 +10,10 @@ Artemis
 
 **Artemis is the goddess of the moon, the hunt, archery, wild animals, the 
 wilderness, vegetation, childbirth, and chastity.**  Her sacred animal is the 
-deer.  She is the daughter of the god `Zeus`_ and the Titaness Leto.  Leto 
-gave birth to Artemis and her twin brother `Apollo`_ on the floating island 
+deer.  She is the daughter of the god Zeus and the Titaness Leto.  Leto 
+gave birth to Artemis and her twin brother Apollo on the floating island 
 of Delos because that was the only place Leto could escape from a jealous 
-`Hera`_’s tormenting.  
-.. _Zeus: zeus/index.html
-.. _Apollo: apollo/index.html
-.. _Hera: hera/index.html
+Hera’s tormenting.  
 
 **Artemis and Apollo are often seen in conjunction to each other.**  They are 
 patrons of unmarried girls and boys, and the moon and sun, respectively.  

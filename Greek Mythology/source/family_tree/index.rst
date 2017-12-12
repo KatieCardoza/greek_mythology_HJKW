@@ -2,6 +2,10 @@
 The Family Tree
 ===============
 
+Mythological families can be large and often confusing.  To simplify this, the 
+chart below shows the parentage, spouse, and notable siblings of each Olympian 
+and Gaea.
+
 ============ ================================================== ===================== ================================== ===============================
 Diety         Domain                                             Parents                Spouse                             Important Siblings       
 ============ ================================================== ===================== ================================== ===============================
@@ -21,16 +25,16 @@ Hepheastus    Fire, metalworking, forges                         Zeus and Hera  
 `Gaea`_       Primal Goddess called "Mother Earth"               Produced from Chaos   None                                 
 ============ ================================================== ===================== ================================== ===============================
 
-.. _Aphrodite: aphrodite/index.html
-.. _Apollo: apollo/index.html
-.. _Ares: ares/index.html
-.. _Artemis: artemis/index.html
-.. _Athena: athena/index.html
-.. _Demeter: demeter/index.html
-.. _Dionysus: dionysus/index.html
-.. _Hades: hades/index.html
-.. _Hera: hera/index.html
-.. _Hermes: hermes/index.html
-.. _Poseidon: poseidon/index.html
-.. _Zeus: zeus/index.html
-.. _Gaea: gaea/index.html
+.. _Aphrodite: ../aphrodite/index.html
+.. _Apollo: ../apollo/index.html
+.. _Ares: ../ares/index.html
+.. _Artemis: ../artemis/index.html
+.. _Athena: ../athena/index.html
+.. _Demeter: ../demeter/index.html
+.. _Dionysus: ../dionysus/index.html
+.. _Hades: ../hades/index.html
+.. _Hera: ../hera/index.html
+.. _Hermes: ../hermes/index.html
+.. _Poseidon: ../poseidon/index.html
+.. _Zeus: ../zeus/index.html
+.. _Gaea: ../gaea/index.html
