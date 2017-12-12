@@ -30,7 +30,7 @@ for years, teaching people how to make wine.  Once, he was captured by
 Tyrrhenian pirates who wanted to sell him into slavery, but Dionysus cursed 
 their ship with phantom vines and beasts.  In fear, the pirated jumped into the 
 sea, where Dionysus turned them into dolphins.  Another time, a *different* 
-group of priates captured him, mistaking him for a prince because he looked rich.  
+group of pirates captured him, mistaking him for a prince because he looked rich.  
 They tied him to the mast of the ship but he magically loosened them until they 
 fell.  The pirates retied him, but Dionysus loosened the ropes again.  He turned 
 into a lion and pulled the pirates into the sea with vines.  He sailed the 
