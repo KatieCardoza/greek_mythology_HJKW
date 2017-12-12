@@ -3,7 +3,7 @@ Athena
 .. figure:: athena_goddess.jpg
  :width: 20%
 
-Athena in full battle gear, courtesy of `Pinterest <https://www.pinterest.com/explore/athena-goddess/>`_.
+ Athena in full battle gear, courtesy of `Pinterest <https://www.pinterest.com/explore/athena-goddess/>`_.
 
 
 Athena is the goddess of wisdom and battle strategy. She is also the *goddess*

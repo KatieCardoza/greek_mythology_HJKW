@@ -3,7 +3,7 @@ Demigods
 .. figure:: perseus.jpg
  :width: 20%
 
-Perseus holding the head of Medusa after defeating her, `Morland Studios <http://morlandstudios.com/?attachment_id=453>`_.
+ Perseus holding the head of Medusa after defeating her, `Morland Studios <http://morlandstudios.com/?attachment_id=453>`_.
 
 
 
