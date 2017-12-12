@@ -34,7 +34,7 @@ his advances are rejected and he punishes the women.  Once, a woman named
 Coronis was pregnant with his child but fell in love with *another* man.  Apollo 
 heard this and, in anger, asked Artemis to kill Coronis.  Apollo himself once 
 accidentally killed his closest friend and love interest, Hyacinthus, with a 
-discus throw.  In greif, Apollo created a flower to commemorate his friend.  
+discus throw.  In grief, Apollo created a flower to commemorate his friend.  
 Another time, a satyr, Marsyas, challenged Apollo to a music competition.  
 Apollo won and was so angry he had Marsays flayed alive for being arrogant 
 enough to challenge a god.  
