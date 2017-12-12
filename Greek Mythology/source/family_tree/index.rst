@@ -10,7 +10,7 @@ and Gaea.
 Diety         Domain                                             Parents                Spouse                             Important Siblings       
 ============ ================================================== ===================== ================================== ===============================
 `Aphrodite`_  Love, beauty, eternal youth                        Rose from sea foam    Hepheastus;relationship with Ares   
-`Apollo`_     The sun, arhery, music, art, poetry oracles        Zeus and Leto         None                               Artemis
+`Apollo`_     The sun, archery, music, art, poetry oracles       Zeus and Leto         None                               Artemis
 `Ares`_       War                                                Zeus and Hera         Relationship with Aphrodite        Hepheastus, Athena
 `Artemis`_    The moon, hunting, archery, chastity, wilderness   Zeus and Leto         None                               Apollo
 `Athena`_     Wisdom, battle strategy                            Zeus                  None                               Ares
