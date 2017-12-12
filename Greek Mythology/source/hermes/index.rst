@@ -1,8 +1,9 @@
 Hermes
 ======
-.. figure:: hermes.jpg
+.. figure:: hermes.png
+ :width: 50%
 
-.. https://www.thinglink.com/scene/619269792322289665
+Hermes off to deliver messages, `Word Hunter <https://hunterswritings.com/2016/04/19/character-archetypes-h-for-herald-and-hermes/>`_.
 
 
 Hermes is known as the messenger god. He carries messages throughout the world
