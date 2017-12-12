@@ -23,6 +23,7 @@ was also known to be a grouchy and greedy god. He made sure to get revenge on
 those who did him wrong.
 
 Poseidon's Creations:
+---------------------
  * horses
  * pegasi
  * zebras
