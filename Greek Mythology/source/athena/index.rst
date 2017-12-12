@@ -1,7 +1,7 @@
 Athena
 ======
 .. figure:: athena_goddess.jpg
- :width: 50%
+ :width: 20%
 
 Athena in full battle gear, courtesy of `Pinterest <https://www.pinterest.com/explore/athena-goddess/>`_.
 
