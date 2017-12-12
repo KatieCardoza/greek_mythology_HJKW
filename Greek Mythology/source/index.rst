@@ -13,10 +13,12 @@ Welcome to Greek Mythology's documentation!
    aphrodite/index
    apollo/index
    ares/index
-   athena/index
    artemis/index
+   athena/index
    demeter/index
    demigods/index
+   dionysus/index
+   family_tree/index
    gaea/index
    hades/index
    hera/index

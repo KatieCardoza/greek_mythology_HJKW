@@ -1,6 +1,12 @@
 Gaea
 ====
 
+.. figure:: gaea_image.jpg
+	:width: 20%
+
+	An image of Gaea, `reference`_.
+.. _reference: https://ravenseniors.wikispaces.com/GL+2013+P4+Gaia
+
 Within Greek Mythology, the thing to exist before all else was Chaos made of 
 Void, Mass, and Darkness. From Chaos came earth in the form of Gaea. Referred 
 to as “Mother Earth,” Gaea produced starry heavens as the God Uranus. Gaea also 
@@ -20,3 +26,7 @@ angered when Zeus threw the Titans into Tartarus. In her anger, Gaea birthed a
 tribe of Giants and eventually Typhoeus, a storm giant. Neither creation was 
 able to overthrow Zeus.
 
+For a better understanding of Chaos, click `here`_ to see a short description of
+Chaos and its creations.
+
+.. _here: https://www.greekmythology.com/Other_Gods/Chaos/chaos.html

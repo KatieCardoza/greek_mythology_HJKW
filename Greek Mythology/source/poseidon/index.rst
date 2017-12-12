@@ -1,5 +1,9 @@
 Poseidon
 ========
+.. figure:: poseidon.jpg
+ :width: 50%
+
+Poseidon ruling the sea, courtesy of `Genzoman <https://genzoman.deviantart.com/art/Poseidon-God-of-the-Sea-484552876>`_.
 
 
 Poseidon is the god of the sea and earthquakes. Like all of the gods, his true
@@ -14,5 +18,16 @@ on his father.The symbol of Poseidon is a trident, as that is his go-to weapon.
 He was the creator of horses and sea creatures, like dolphins and fish. He had
 children of all sorts- godly children, demigods, and cyclops to new a few. His
 cyclops children had sea nymph mothers, the demigods had mortal mothers, and the
-kids he had with other gods obviously were completely godly themselves. 
+kids he had with other gods obviously were completely godly themselves. Poseidon
+was also known to be a grouchy and greedy god. He made sure to get revenge on
+those who did him wrong.
 
+Poseidon's Creations:
+ * horses
+ * pegasi
+ * zebras
+ * bulls
+ * dolphins
+ * fish
+ * camels
+ * giraffes

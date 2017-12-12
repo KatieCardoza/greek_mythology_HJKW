@@ -7,6 +7,7 @@ Hades
 =====
 
 .. figure:: hades.jpg
+	:width: 30%
 	
 	Hades with Cerebrus, made by `jorcerca`_.
 
@@ -16,11 +17,11 @@ Hades is the god of the dead and King of the Underworld. He is the oldest
 male child, brother to Zeus and Poseidon. After defeating their father, Cronus, 
 the three brothers divided their reign. Zeus became god of the skies, Poseidon 
 to the seas, and Hades to the underworld. There, he supervised the realm of the
- dead. Hades is also known as the god of wealth, as rich minerals are found 
- deep in the earth. Persephone, the daughter of Demeter, became his wife when 
- Hades kidnapped her and brought her to the Underworld. After eating the seeds 
- of the forbidden pomegranate, she was unable to leave the Underworld for one
-  third of each year. This period of time is supposed to represent winter. 
+dead. Hades is also known as the god of wealth, as rich minerals are found 
+deep in the earth. Persephone, the daughter of Demeter, became his wife when 
+Hades kidnapped her and brought her to the Underworld. After eating the seeds 
+of the forbidden pomegranate, she was unable to leave the Underworld for one 
+third of each year. This period of time is supposed to represent winter. 
   
 
 About the Underworld

@@ -1,6 +1,12 @@
 Ares
 ====
 
+.. figure:: ares_image.jpg
+	:width: 20%
+
+	Ares in his armor and holding his spear, `reference`_.
+.. _reference: http://www.greek-mythology-pantheon.com/ares-mars-greek-god-of-war/
+
 Ares is a son of Zeus and Hera. On the battlefield, Ares was an unstoppable 
 soldier, rightfully earning him the title God of War. In stories, Ares is the 
 embodiment of the violence and the chaos that could be found in war. This was in
