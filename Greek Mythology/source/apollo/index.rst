@@ -29,7 +29,7 @@ young boys and Artemis is the protector of young girls.  They are deities of the
 sun and moon.  They are both gods of archery, but Apollo is god of *sport* 
 archery and Artemis is goddess of archery for hunting and war.  
 
-Apollo has *many* affairs with women, and there are multiple instance in which 
+Apollo has *many* affairs with women, and there are multiple instances in which 
 his advances are rejected and he punishes the women.  Once, a woman named 
 Coronis was pregnant with his child but fell in love with *another* man.  Apollo 
 heard this and, in anger, asked Artemis to kill Coronis.  Apollo himself once 

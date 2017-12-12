@@ -37,7 +37,7 @@ we still refer to them today.
    * - The Chimera
      - A fire-breathing three-headed monster with heads of a lion, goat, and
        snake. Half lion body and goat behind, with a long snake tail.
-     - If one saw this creatue, it was an omen for
+     - If one saw this creature, it was an omen for
        shipwrecks, volcanoes, and other disasters.
    * - Centaur
      - Head and torso of a man, and the body of a horse
@@ -51,7 +51,7 @@ we still refer to them today.
    * - Furies
      - Older women who have blood-shot eyes, bat wings, and 
        sometimes dog's heads.
-     - Goddessess of vengeance, they punish the wicked fo crimes. They hear 
+     - Goddesses of vengeance, they punish the wicked for crimes. They hear 
        complaints and then search for the culprits.
    * - Gorgons
      - Female monsters that have snakes instead of hair
@@ -59,7 +59,7 @@ we still refer to them today.
        gaze can turn people to stone. 
    * - Minotaur
      - Has the head of a bull and the body of a man 
-     - The minotaur lived in the center of Daedalus/ Labryrinth, a maze to 
+     - The minotaur lived in the center of Daedalus/ Labyrinth, a maze to 
        enslave the Minotaur.
    * - Satyrs
      - Has human upper bodies, and the horns and bottom half of a goat 
